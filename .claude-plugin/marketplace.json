@@ -1,0 +1,17 @@
+{
+  "name": "app-marketing-assets",
+  "description": "Marketing screenshots and store listing images captured from your real, running app.",
+  "owner": {
+    "name": "klocekian",
+    "url": "https://github.com/klocekian"
+  },
+  "plugins": [
+    {
+      "name": "app-marketing-assets",
+      "source": ".",
+      "description": "Marketing screenshots and store images captured from your real app",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

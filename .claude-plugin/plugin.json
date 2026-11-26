@@ -1,0 +1,11 @@
+{
+  "name": "app-marketing-assets",
+  "version": "0.1.0",
+  "description": "Generate marketing screenshots, App Store / Google Play / Chrome Web Store images, promo tiles and social cards from your real, running app, and refresh them all after a UI change.",
+  "author": { "name": "klocekian", "url": "https://github.com/klocekian" },
+  "homepage": "https://github.com/klocekian/app-marketing-assets",
+  "repository": "https://github.com/klocekian/app-marketing-assets",
+  "license": "MIT",
+  "keywords": ["screenshots", "marketing", "app-store", "google-play", "chrome-web-store", "playwright", "og-image"],
+  "skills": ["./skills/app-marketing-assets"]
+}
